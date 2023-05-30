@@ -1,1 +1,1 @@
-# the code counts how many time elements repeat in array
+# the code counts how many elements are repeated in array
